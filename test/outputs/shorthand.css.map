@@ -1,0 +1,1 @@
+{"version":3,"mappings":"AAAA","sources":["."],"sourcesContent":[".foo {\n  padding-top: 1px;\n  padding-left: 2px;\n  padding-bottom: 3px;\n  padding-right: 4px;\n}\n"],"names":[],"file":"shorthand.css"}
